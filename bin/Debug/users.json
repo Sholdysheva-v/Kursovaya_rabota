@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1309963310,
+    "Login": "Admin_1",
+    "Password": "Admin_1",
+    "Surname": "Шолдышева",
+    "Name": "Виктория",
+    "Patronymic": "Денисовна",
+    "ContactPhone": "89138942103",
+    "Email": "viktoria220604@gmail.com"
+  },
+  {
+    "Id": 1032991243,
+    "Login": "Admin_2",
+    "Password": "Admin_2",
+    "Surname": "Иванова",
+    "Name": "Екатерина",
+    "Patronymic": "Андреевна",
+    "ContactPhone": "89234356708",
+    "Email": "lisa@gmail.com"
+  },
+  {
+    "Id": 1851776699,
+    "Login": "Manager_1",
+    "Password": "Manager_1",
+    "Surname": "Зайцева",
+    "Name": "Алиса",
+    "Patronymic": "Петровна",
+    "ContactPhone": "89232324565",
+    "Email": "alicaz@mail,ru"
+  },
+  {
+    "Id": 500875893,
+    "Login": "Master_2",
+    "Password": "Master_2",
+    "Surname": "Петрова",
+    "Name": "Евгения",
+    "Patronymic": "Григорьевна",
+    "ContactPhone": "89238876756",
+    "Email": "petrovaevg@gmail.ru"
+  },
+  {
+    "Id": 636652936,
+    "Login": "Master_1",
+    "Password": "Master_1",
+    "Surname": "Сергеев",
+    "Name": "Алексей",
+    "Patronymic": "Дмитриевич",
+    "ContactPhone": "89132325454",
+    "Email": "serg@gmail.com"
+  }
+]

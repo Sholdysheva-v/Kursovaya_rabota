@@ -1,0 +1,86 @@
+[
+  {
+    "ServiceId": 898394126,
+    "DeviceType": 0,
+    "ServiceName": "Замена материнской платы",
+    "Price": "1200,00"
+  },
+  {
+    "ServiceId": 1048637824,
+    "DeviceType": 0,
+    "ServiceName": "Ремонт цепи питания",
+    "Price": "2200,00"
+  },
+  {
+    "ServiceId": 2097065632,
+    "DeviceType": 0,
+    "ServiceName": "Замена камеры",
+    "Price": "1600,00"
+  },
+  {
+    "ServiceId": 2100455869,
+    "DeviceType": 0,
+    "ServiceName": "Замена тачскрина",
+    "Price": "3800,00"
+  },
+  {
+    "ServiceId": 1382540931,
+    "DeviceType": 0,
+    "ServiceName": "Замена микрофона",
+    "Price": "2600,00"
+  },
+  {
+    "ServiceId": 1362881004,
+    "DeviceType": 1,
+    "ServiceName": "Замена блока питания",
+    "Price": "2000,00"
+  },
+  {
+    "ServiceId": 228213186,
+    "DeviceType": 1,
+    "ServiceName": "Замена аккумулятора",
+    "Price": "3500,00"
+  },
+  {
+    "ServiceId": 910307046,
+    "DeviceType": 1,
+    "ServiceName": "Ремонт цепи зарядки",
+    "Price": "1400,00"
+  },
+  {
+    "ServiceId": 1866613099,
+    "DeviceType": 1,
+    "ServiceName": "Ремонт видеокарты",
+    "Price": "4600,00"
+  },
+  {
+    "ServiceId": 1558814872,
+    "DeviceType": 1,
+    "ServiceName": "Замена вентилятора",
+    "Price": "1700,00"
+  },
+  {
+    "ServiceId": 96983435,
+    "DeviceType": 2,
+    "ServiceName": "Замена разъема зарядки",
+    "Price": "900,00"
+  },
+  {
+    "ServiceId": 1287122164,
+    "DeviceType": 2,
+    "ServiceName": "Замена стекла",
+    "Price": "800,00"
+  },
+  {
+    "ServiceId": 1278121614,
+    "DeviceType": 3,
+    "ServiceName": "Замена разъема питания",
+    "Price": "500,00"
+  },
+  {
+    "ServiceId": 459252484,
+    "DeviceType": 3,
+    "ServiceName": "Замена экрана",
+    "Price": "1500,00"
+  }
+]

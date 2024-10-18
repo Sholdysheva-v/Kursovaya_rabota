@@ -1,0 +1,98 @@
+[
+  {
+    "OrderId": 869627618,
+    "ManagerId": 1851776699,
+    "MasterId": 636652936,
+    "LastName": "Терентьев",
+    "FirstName": "Василий",
+    "Patronymic": "Фёдорович",
+    "ContactPhone": "89234567890",
+    "DeviceType": 1,
+    "Model": "HONOR Magicbook 15",
+    "SerialNumber": "54-176-RT-HR",
+    "ExternalConditionComment": "Отсутствует клавиша \"Enter\"",
+    "Issue": "Сильно шумит во время работы",
+    "IsCompleted": false,
+    "DateOfInquiry": "2024-10-18T22:21:22.8536273+07:00",
+    "IsDiagnosed": false,
+    "Diagnoses": [],
+    "Price": ""
+  },
+  {
+    "OrderId": 319760886,
+    "ManagerId": 1851776699,
+    "MasterId": 636652936,
+    "LastName": "Голубева",
+    "FirstName": "Василиса",
+    "Patronymic": "Владиславовна",
+    "ContactPhone": "89132213434",
+    "DeviceType": 2,
+    "Model": "HUAWEY MatPad",
+    "SerialNumber": "ER-rt-567",
+    "ExternalConditionComment": "Повреждения отсутсвуют",
+    "Issue": "Не идет заряд",
+    "IsCompleted": false,
+    "DateOfInquiry": "2024-10-18T22:50:54.794914+07:00",
+    "IsDiagnosed": true,
+    "Diagnoses": [
+      {
+        "ServiceId": 96983435,
+        "DeviceType": 2,
+        "ServiceName": "Замена разъема зарядки",
+        "Price": "900,00"
+      }
+    ],
+    "Price": "900.00"
+  },
+  {
+    "OrderId": 863585596,
+    "ManagerId": 1851776699,
+    "MasterId": 500875893,
+    "LastName": "Зуев",
+    "FirstName": "Вячеслав",
+    "Patronymic": "Михайлович",
+    "ContactPhone": "89132324545",
+    "DeviceType": 3,
+    "Model": "DIGMA-X1",
+    "SerialNumber": "FR-1254",
+    "ExternalConditionComment": "Повреждения отсутсвуют",
+    "Issue": "Не включчается",
+    "IsCompleted": false,
+    "DateOfInquiry": "2024-10-18T23:08:59.2918016+07:00",
+    "IsDiagnosed": false,
+    "Diagnoses": [],
+    "Price": ""
+  },
+  {
+    "OrderId": 846207373,
+    "ManagerId": 1851776699,
+    "MasterId": 500875893,
+    "LastName": "Королёва",
+    "FirstName": "Кристина",
+    "Patronymic": "Анатольвена",
+    "ContactPhone": "89132325656",
+    "DeviceType": 0,
+    "Model": "Xiaomi Redmi",
+    "SerialNumber": "78-567-R-6100",
+    "ExternalConditionComment": "Повреждения отсутствуют",
+    "Issue": "Плохая съёмка камеры",
+    "IsCompleted": true,
+    "DateOfInquiry": "2024-10-18T23:12:14.1901476+07:00",
+    "IsDiagnosed": true,
+    "Diagnoses": [
+      {
+        "ServiceId": 2097065632,
+        "DeviceType": 0,
+        "ServiceName": "Замена камеры",
+        "Price": "1600,00"
+      },
+      {
+        "ServiceId": 1382540931,
+        "DeviceType": 0,
+        "ServiceName": "Замена микрофона",
+        "Price": "2600,00"
+      }
+    ],
+    "Price": "4200.00"
+  }
+]
